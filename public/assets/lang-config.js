@@ -1,0 +1,25 @@
+window.__GOOGLE_TRANSLATION_CONFIG__ = {
+    languages: [
+        { title: 'English', name: 'en' },
+        { title: 'हिन्दी', name: 'hi' },
+        { title: 'ગુજરાતી', name: 'gu' },
+        { title: 'বাংলা', name: 'bn' },
+        { title: 'தமிழ்', name: 'ta' },
+        { title: 'తెలుగు', name: 'te' },
+        { title: 'ਪੰਜਾਬੀ', name: 'pa' },
+        { title: 'മലയാളം', name: 'ml' },
+        { title: 'ಕನ್ನಡ', name: 'kn' },
+        { title: 'ଓଡିଆ', name: 'or' },
+        { title: 'اردو', name: 'ur' },
+        { title: 'मराठी', name: 'mr' },
+        { title: 'हिंदी', name: 'hi' },
+        { title: 'অসমীয়া', name: 'as' },
+        { title: 'संस्कृत', name: 'sa' },
+        { title: 'कश्मीरी', name: 'ks' },
+        { title: 'मैथिली', name: 'mai' },
+        { title: 'සිංහල', name: 'si' },
+        { title: 'Nepali', name: 'ne' },
+        { title: 'Bodo', name: 'brx' }
+    ],
+    defaultLanguage: 'en',
+};
